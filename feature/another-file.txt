@@ -3,3 +3,5 @@ Just antoher file replaced in feature-2
 This file was modified locally
 
 This line was added in feature-2
+
+Another mod on feature-2
