@@ -1,3 +1,4 @@
 # my-github-repo
 Here is my repo
-Added new line to my file. This file was modified locally.
+
+This line was created by me becouse of merge conflict
